@@ -6,7 +6,7 @@ Created on Wed Oct 17 18:23:07 2018
 """
 
 
-#this is the notebook for the innovaccer's review dataset
+
 #here i have used xgb & sklearn api rather than writing the whole algorithm myself
 
 
